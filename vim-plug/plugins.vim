@@ -28,5 +28,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/gv.vim'
     Plug 'liuchengxu/vim-which-key'
     Plug 'honza/vim-snippets'
+    Plug 'kaicataldo/material.vim', { 'branch': 'main' }
+    Plug 'kyazdani42/nvim-web-devicons'
+    Plug 'romgrk/barbar.nvim'
+
+
+
 
 call plug#end()
