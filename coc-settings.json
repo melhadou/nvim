@@ -1,11 +1,3 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["css", "php","markdown", "javascript", "graphql", "html", "yaml",  "json"],
-
-
-  "snippets.ultisnips.directories":
-  [
-    "UltiSnips",
-    "~/.config/nvim/utils/snips"
-  ]
-
+  "coc.preferences.formatOnSaveFiletypes": ["css", "php","markdown", "javascript", "graphql", "html", "yaml",  "json"]
 }
