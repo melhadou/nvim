@@ -31,8 +31,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'kaicataldo/material.vim', { 'branch': 'main' }
     Plug 'kyazdani42/nvim-web-devicons'
     Plug 'romgrk/barbar.nvim'
-
-
-
+    Plug 'nvim-treesitter/nvim-treesitter'
 
 call plug#end()
