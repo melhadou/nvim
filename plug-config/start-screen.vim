@@ -7,8 +7,8 @@ let g:startify_lists = [
           \ ]
 let g:startify_bookmarks = [
             \ { 'i': '~/.config/nvim/init.vim' },
-            \ { 'z': '~/.zshrc' },
-            \ { 'd': '~/Dev'},
+            \ { 'c': '~/dev/cms' },
+            \ { 'd': '~/dev'},
             \ ]
 let g:startify_session_autoload = 1
 let g:startify_session_delete_buffers = 1
