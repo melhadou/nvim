@@ -11,3 +11,7 @@ source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/signify.vim
 source $HOME/.config/nvim/keys/which-key.vim
 lua require'plug-colorizer'
+
+" ----coc extension use ---
+" css emmet eslint git highlight html html-css-support json phpactor phpls prettier rome snippets sql sqlfluff svg tsserver vetur
+
